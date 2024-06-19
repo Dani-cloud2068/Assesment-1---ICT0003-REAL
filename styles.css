@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(17, 16, 15);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 255, 213);
+}
+h1 {
+    text-decoration: underline;
+    font-size: 45pt;
+
+}
